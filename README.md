@@ -1,4 +1,4 @@
-Turn any camera into a real-time AI agent in 60 minutes. Tested end-to-end from iPhone 15 capture to Windows 11 RTX 4070 with PyTorch + ONNX + TensorRT FP16 optimization, this project combines YOLOv8 Nano, CUDA, TensorRT, and OpenCV for ultra-low latency object detection.
+Turn any camera into a real-time AI agent in 10 minutes. Tested end-to-end from iPhone 15 capture to Windows 11 RTX 4070 with PyTorch + ONNX + TensorRT FP16 optimization, this project combines YOLOv8 Nano, CUDA, TensorRT, and OpenCV for ultra-low latency object detection.
 _____________________________________________________________________________________________________________________________________________________________________________________________
 Overview
 This project transforms any standard camera into a real-time AI agent capable of object detection in 60 minutes. It leverages the NVIDIA ecosystem for maximum performance using YOLOv8 Nano, PyTorch, Ultralytics, CUDA, ONNX, and TensorRT on a GeForce RTX 4070 with Intel Core i9.
